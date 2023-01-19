@@ -1,3 +1,25 @@
 body{
     background-color: khaki;
 }
+
+h2{
+    color: red;
+    text-align: center;
+    font-weight: 900;
+    font-style: italic;
+    text-decoration: underline;
+    
+}
+
+.chapter{
+    color: blue;
+}
+
+#begin{
+    color: rgb(150, 9, 215);
+    font-weight: bold;
+}
+
+.text{
+    font-weight: 900;
+}
